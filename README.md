@@ -60,7 +60,7 @@ A big thanks to **[Codebasics]** for providing this real-world case study as par
 **Bhagyashree Chikkodi** – Final-year B.E. student passionate about **Data Analytics**, **Visualization**, and solving business problems using data.
 
 - 🔍 Actively seeking **internship or entry-level roles** in Data Analytics / BI Development
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhagyashree-chikkodi/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhagyashree-chikkodi-ab117824b/)
 - 📬 bhagyashreechikkodi@gmail.com
 
 ---
